@@ -10,17 +10,16 @@ TODO:  Change these things along with:
   - favicon.ico in /public
  */
 const font = Poppins({ weight: '700', subsets: ['latin']})
-const title = 'Luke\'s Site';
+const title = 'Avikas\'s Site';
 const description = 'This my personal site';
 const links = [
   {title: 'Pokemon', href: '/pokemon'},
   {title: 'Rick and Morty', href: '/rick-and-morty'}
 ];
 const SocialLinks = {
-  twitter: 'https://x.com/dunscombe_luke',
   github: '#github',
   instagram: '#insta',
-  email: 'mailto:ldunscombe@leantechniques.com'
+  email: 'mailto:avikarastogi2009@gmail.com'
 }
 
 export const metadata: Metadata = {
