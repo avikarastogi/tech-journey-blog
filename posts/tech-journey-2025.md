@@ -1,5 +1,5 @@
 ---
-title: 'Tech Journey 2025'
+title: 'My Robotics Journey'
 date: '2025-07-16'
 ---
 
