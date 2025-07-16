@@ -13,8 +13,8 @@ const font = Poppins({ weight: '700', subsets: ['latin']})
 const title = 'Avika\'s Site';
 const description = 'This my personal site';
 const links = [
-  {title: 'Pokemon', href: '/pokemon'},
-  {title: 'Rick and Morty', href: '/rick-and-morty'}
+  {title: 'All About Me', href: '/All About Me'},
+  {title: 'Velocity', href: '/Velocity'}
 ];
 const SocialLinks = {
   github: '#github',
